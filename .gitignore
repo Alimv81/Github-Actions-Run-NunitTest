@@ -2,6 +2,9 @@
 bin/
 obj/
 
+MyApp.Tests/obj
+MyApp.Tests/bin
+
 # Ignore Visual Studio and IDE specific files
 .vs/
 .vscode/
