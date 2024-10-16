@@ -1,0 +1,20 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore Visual Studio and IDE specific files
+.vs/
+.vscode/
+.idea/
+
+# Ignore user-specific files
+*.csproj.user
+*.suo
+*.user
+
+# Ignore log files
+*.log
+
+# Ignore any other temporary files
+*.tmp
+*.temp
